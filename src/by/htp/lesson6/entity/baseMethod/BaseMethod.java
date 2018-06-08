@@ -28,7 +28,7 @@ public class BaseMethod {
                     break;
                 }
             case "air cushion":
-                if(transport.getClass().equals(TaxiOnAirСushion.class)){
+                if(transport.getClass().equals(TaxiOnAirCushion.class)){
                     dCost = transport.getCost();
                     break;
                 }

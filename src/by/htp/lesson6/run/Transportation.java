@@ -17,7 +17,7 @@ public class Transportation {
                 new MiniPlane(dDistance),
                 new Jetpack(dDistance),
                 new Slingshot(dDistance),
-                new TaxiOnAirСushion(dDistance),
+                new TaxiOnAirCushion(dDistance),
                 new TransportPipe(dDistance),
                 new Teleport(dDistance),
                 new DrillingCar(dDistance),
